@@ -1,0 +1,9 @@
+langgraph
+langchain
+openai==0.28.1
+selenium
+requests
+dotenv
+webdriver-manager
+langchain_openai
+langchain_core
