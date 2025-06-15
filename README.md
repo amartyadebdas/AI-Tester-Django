@@ -7,31 +7,31 @@ I followed simple approach , get the django github Url from user . Containerize 
 
 1. Clone the repo:
 ```bash
-git clone git@github.com:amartyadebdas/AI-Tester-Django.git
+git clone https://github.com/amartyadebdas/AI-Tester-Django
 
 ```
 
-3. Create virtual Environment (UBUNTU):
+2. Create virtual Environment (UBUNTU):
 ```bash
 python3 -m venv venv
 ```
 
-4. Activate virtual Environment(UBUNTU):
+3. Activate virtual Environment(UBUNTU):
 ```bash
 source venv/bin/activate
 ```
-5. Install the dependencies:
+4. Install the dependencies:
 ```bash
 
 pip install -r requirements_dev.txt
 
 ```
 
-6. Run the application:
+5. Run the application:
 ```bash
 python3 -m langgraph_app.langgraph_app
 ```
 ---
 
 ### NOTE: 
-Please connect with me if you encounter any errors while running the application. Also, inform me if you face any package-related issues after installing the `requirements.txt`.
+Please connect me if you encounter any errors while running the application. Also, inform me if you face any package-related issues after installing the `requirements.txt`.

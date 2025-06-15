@@ -1,6 +1,5 @@
 langgraph
 langchain
-openai==0.28.1
 selenium
 requests
 dotenv
